@@ -1,2 +1,2 @@
 # Business-research-and-market-intelligence-project
-Market intelligence project mapping 50 recently funded AI/B2B companies and 100+ key decision-makers through structured stakeholder profiling and funding-stage analysis.
+This project involved researching 50 recently funded AI and B2B companies using LinkedIn, Crunchbase, and other public business sources. It identified and mapped 100+ key decision-makers — including founders, CEOs, and senior marketing executives — through structured stakeholder profiling. The output was a consolidated Excel database of verified, cross-referenced company and stakeholder profiles, supported by funding-stage analysis to inform targeted outreach.
